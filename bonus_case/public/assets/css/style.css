@@ -1,0 +1,26 @@
+body {
+  background-color: yellow;
+}
+
+body .c-size {
+  width: 20rem;
+}
+
+body .c-size-2 {
+  width: 50rem;
+}
+
+body .c-color {
+  background-color: lightgray;
+}
+
+body .card-body .breadcrumb a, body .card-body .breadcrumb li {
+  text-decoration: none;
+  color: black;
+}
+
+body .card-body .search-bar {
+  background-color: gray;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
